@@ -1,0 +1,8 @@
+Technologies :
+html
+css
+javascript
+node
+express
+mongo
+angular
